@@ -38,3 +38,8 @@ body {
   font-size: 16px;
   color: rgba(255, 255, 255, 0.8);
 }
+@media  (max-width:400px){
+    .time{
+        font-size: 20px;
+    }
+}
